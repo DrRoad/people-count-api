@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef423c90-6dfd-4eac-8895-eeca517218c1" name="Default Changelist" comment="" />
+    <list default="true" id="ef423c90-6dfd-4eac-8895-eeca517218c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eZda9aRhrrzE3pr2MsOzhsgkrw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,7 +30,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Downloads\_People_Counting_Code-20200712T054652Z-001\_People_Counting_Code" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,16 +49,40 @@
       <option name="presentableId" value="Default" />
       <updated>1594533110602</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1594668184739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594668184739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1594668181982">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1594668181982" />
     <state x="75" y="0" key="SettingsEditor" timestamp="1594533285486">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="75" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1594533285486" />
-    <state x="314" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1594667831598">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1594668230093">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="314" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1594667831598" />
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1594668230093" />
+    <state x="314" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1594831036478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="314" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1594831036478" />
+    <state x="337" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594840214387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="337" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1594840214387" />
   </component>
 </project>
