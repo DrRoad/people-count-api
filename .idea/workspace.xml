@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594843843985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1594844233721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594844233721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -71,22 +78,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1594843842989">
+    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1594844232868">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1594843842989" />
+    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1594844232868" />
     <state x="75" y="0" key="SettingsEditor" timestamp="1594533285486">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="75" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1594533285486" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1594843847919">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1594844237504">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1594843847919" />
-    <state x="314" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1594831036478">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1594844237504" />
+    <state x="314" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1594881623452">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="314" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1594831036478" />
+    <state x="314" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1594881623452" />
     <state x="337" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594840214387">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
